@@ -1,4 +1,4 @@
-public class CalculadoraSegundos {
+public class CalculadoraSegundo {
 
     public static void main(String[] args) {
         int diasEnUnAnio = 365;
